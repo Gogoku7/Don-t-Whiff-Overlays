@@ -1,0 +1,74 @@
+[
+  {
+    "Selector": "#player1NameText",
+    "Value": "BTS JIN [L]"
+  },
+  {
+    "Selector": ".player1Sponsor",
+    "Value": null
+  },
+  {
+    "Selector": "#player1TwitterText",
+    "Value": null
+  },
+  {
+    "Selector": "#player1TwitchText",
+    "Value": null
+  },
+  {
+    "Selector": "#player1ScoreText",
+    "Value": "1"
+  },
+  {
+    "Selector": "#player1Character",
+    "Value": null
+  },
+  {
+    "Selector": "#player1Country",
+    "Value": "../../../../Flags/BE.svg"
+  },
+  {
+    "Selector": "#player2NameText",
+    "Value": "Bati"
+  },
+  {
+    "Selector": ".player2Sponsor",
+    "Value": "TB"
+  },
+  {
+    "Selector": "#player2TwitterText",
+    "Value": null
+  },
+  {
+    "Selector": "#player2TwitchText",
+    "Value": null
+  },
+  {
+    "Selector": "#player2ScoreText",
+    "Value": "2"
+  },
+  {
+    "Selector": "#player2Character",
+    "Value": null
+  },
+  {
+    "Selector": "#player2Country",
+    "Value": "../../../../Flags/PL.svg"
+  },
+  {
+    "Selector": "#tournamentText",
+    "Value": "Don't Whiff"
+  },
+  {
+    "Selector": "#extraText",
+    "Value": "Thanks for watching!"
+  },
+  {
+    "Selector": "#roundText",
+    "Value": "Grand Finals"
+  },
+  {
+    "Selector": "#bestOfText",
+    "Value": null
+  }
+]

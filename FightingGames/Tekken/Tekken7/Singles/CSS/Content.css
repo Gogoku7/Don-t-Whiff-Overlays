@@ -1,0 +1,63 @@
+#player1NameText:before {
+    content: "BTS JIN [L]";
+}
+
+#player1TwitterText:before {
+    content: "";
+}
+
+#player1TwitchText:before {
+    content: "";
+}
+
+#player1ScoreText:before {
+    content: "1";
+}
+
+#player1Character {
+    background-image: url('');
+}
+
+#player1Country {
+    background-image: url('../../../../Flags/BE.svg');
+}
+
+#player2NameText:before {
+    content: "TB | Bati";
+}
+
+#player2TwitterText:before {
+    content: "";
+}
+
+#player2TwitchText:before {
+    content: "";
+}
+
+#player2ScoreText:before {
+    content: "2";
+}
+
+#player2Character {
+    background-image: url('');
+}
+
+#player2Country {
+    background-image: url('../../../../Flags/PL.svg');
+}
+
+#tournamentText:before {
+    content: "Don't Whiff";
+}
+
+#extraText:before {
+    content: "Thanks for watching!";
+}
+
+#roundText:before {
+    content: "Grand Finals";
+}
+
+#bestOfText:before {
+    content: "";
+}

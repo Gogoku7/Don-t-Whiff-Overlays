@@ -1,0 +1,18 @@
+[
+{
+  "Selector": "#commentator1NameText",
+  "Value": "Xeno"
+},
+{
+  "Selector": "#commentator1TwitterText",
+  "Value": ""
+},
+{
+  "Selector": "#commentator2NameText",
+  "Value": "Dagobert"
+},
+{
+  "Selector": "#commentator2TwitterText",
+  "Value": ""
+}
+]

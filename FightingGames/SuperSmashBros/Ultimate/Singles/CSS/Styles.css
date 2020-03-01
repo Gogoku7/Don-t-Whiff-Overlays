@@ -1,0 +1,159 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	width: 1920px;
+	height: 1080px;
+	color: white;
+	font-family: 'Bebas Neue', sans-serif;
+	overflow: hidden;
+}
+
+
+
+/* playerBox */
+
+.playerBox
+{
+	position: fixed;
+	width: 290px;
+	height: 28px;
+	overflow: hidden;
+	animation: opacityFadeIn 10s;
+}
+
+#player1Box
+{
+	bottom: 51px;
+	left: 476px;
+	background-image: url('../PlayerBackgrounds/player1Background.png');
+}
+
+#player2Box
+{
+	bottom: 51px;
+	right: 414px;
+	background-image: url('../PlayerBackgrounds/player2Background.png');
+}
+
+/* playerBox END */
+
+
+
+/* playerNameBox */
+
+.playerNameBox
+{
+	margin-left: 50px;
+	width: 200px;
+	height: 28px;
+	text-align: center;
+	line-height: 28px;
+    align-items: center;
+    overflow: hidden;
+	float: left;
+}
+
+/* playerNameBox END */
+
+
+
+/* playerScoreBox */
+
+.playerScoreBox
+{
+    width: 25px;
+    height: 28px;
+	margin-left: 15px;
+	text-align: center;
+    line-height: 28px;
+    align-items: center;
+    overflow: hidden;
+	float: left;
+}
+
+/* playerScoreBox END */
+
+
+
+/* roundBox */
+
+#roundBox
+{
+	position: fixed;
+	width: 290px;
+	height: 30px;
+	left: 815px;
+	bottom: 0px;
+	background-image: url('../BoxBackground/InfoBoxBackground.png');
+	animation: opacityFadeIn 10s;
+}
+
+/* roundBox END */
+
+
+
+/* roundTextContainer */
+
+#roundTextContainer
+{
+	width: 260px;
+	margin-left: 15px;
+	margin-right: 15px;
+	height: 30px;
+	text-align: center;
+    line-height: 30px;
+    align-items: center;
+    overflow: hidden;
+}
+
+/* roundTextContainer END */
+
+
+
+/* Snackbar */
+
+.snackbar
+{
+    visibility: hidden;
+    min-width: 250px;
+    background-color: #333;
+    text-align: center;
+    border-radius: 2px;
+    padding: 2px;
+    position: fixed;
+    z-index: 1;
+    bottom: 0px;
+}
+
+
+    .snackbar.show
+    {
+        visibility: visible;
+        -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+        animation: fadein 0.5s, fadeout 0.5s 2.5s;
+    }
+
+/* Snackbar END */
+
+
+
+/* animations */
+
+@keyframes opacityFadeIn
+{
+	0%
+    {
+        opacity: 0;
+	}
+	90%
+    {
+        opacity: 0;
+	}
+	100%
+    {
+        opacity: 1;
+	}
+}
+
+/* animations END */

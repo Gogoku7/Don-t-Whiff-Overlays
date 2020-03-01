@@ -1,0 +1,63 @@
+#player1NameText:before {
+    content: "TDB | Patrino [L]";
+}
+
+#player1TwitterText:before {
+    content: "";
+}
+
+#player1TwitchText:before {
+    content: "";
+}
+
+#player1ScoreText:before {
+    content: "0";
+}
+
+#player1Character {
+    background-image: url('');
+}
+
+#player1Port {
+    background-image: url('');
+}
+
+#player2NameText:before {
+    content: "Grove [L]";
+}
+
+#player2TwitterText:before {
+    content: "";
+}
+
+#player2TwitchText:before {
+    content: "";
+}
+
+#player2ScoreText:before {
+    content: "2";
+}
+
+#player2Character {
+    background-image: url('');
+}
+
+#player2Port {
+    background-image: url('');
+}
+
+#tournamentText:before {
+    content: "Don't Whiff";
+}
+
+#extraText:before {
+    content: "Resetting for Smash";
+}
+
+#roundText:before {
+    content: "Grand Finals Reset";
+}
+
+#bestOfText:before {
+    content: "";
+}

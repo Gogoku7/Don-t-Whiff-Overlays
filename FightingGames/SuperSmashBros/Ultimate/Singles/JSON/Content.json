@@ -1,0 +1,74 @@
+[
+  {
+    "Selector": "#player1NameText",
+    "Value": "Patrino [L]"
+  },
+  {
+    "Selector": ".player1Sponsor",
+    "Value": "TDB"
+  },
+  {
+    "Selector": "#player1TwitterText",
+    "Value": null
+  },
+  {
+    "Selector": "#player1TwitchText",
+    "Value": null
+  },
+  {
+    "Selector": "#player1ScoreText",
+    "Value": "0"
+  },
+  {
+    "Selector": "#player1Character",
+    "Value": null
+  },
+  {
+    "Selector": "#player1Port",
+    "Value": null
+  },
+  {
+    "Selector": "#player2NameText",
+    "Value": "Grove [L]"
+  },
+  {
+    "Selector": ".player2Sponsor",
+    "Value": null
+  },
+  {
+    "Selector": "#player2TwitterText",
+    "Value": null
+  },
+  {
+    "Selector": "#player2TwitchText",
+    "Value": null
+  },
+  {
+    "Selector": "#player2ScoreText",
+    "Value": "2"
+  },
+  {
+    "Selector": "#player2Character",
+    "Value": null
+  },
+  {
+    "Selector": "#player2Port",
+    "Value": null
+  },
+  {
+    "Selector": "#tournamentText",
+    "Value": "Don't Whiff"
+  },
+  {
+    "Selector": "#extraText",
+    "Value": "Resetting for Smash"
+  },
+  {
+    "Selector": "#roundText",
+    "Value": "Grand Finals Reset"
+  },
+  {
+    "Selector": "#bestOfText",
+    "Value": null
+  }
+]

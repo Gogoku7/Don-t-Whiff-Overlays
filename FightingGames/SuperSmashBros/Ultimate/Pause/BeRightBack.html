@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" type="text/css" href="Styles.css">
+		<link rel="stylesheet" type="text/css" href="../Singles/CSS/Content.css">
+        <link rel="stylesheet" type="text/css" href="../../CSS/Queu.css">
+		<script src="../../../JavaScript/jQuery.js"></script>
+		<script src="../../../JavaScript/fitty.js"></script>
+        <script src="../../../JavaScript/Snackbar.js"></script>
+        <script src="../../../JavaScript/OverlayManager.js"></script>
+    </head>
+    <body>
+		<div id="wrapper" style="background-image: url('1.png'); background-size: contain; background-repeat: no-repeat; background-color: black; background-position: center center;">
+			
+			<div id="startingSoonContainer">
+				<span id="extraText"></span>
+			</div>
+		</div>
+    </body>
+</html>
+
+<script type="text/javascript">
+    $("#slideshow > div:gt(0)").hide();
+	
+	setInterval(function() {
+	  $('#slideshow > div:first')
+		.fadeOut(1000)
+		.next()
+		.fadeIn(1000)
+		.end()
+		.appendTo('#slideshow');
+	}, 20000);
+	
+	$(document).ready(function () {
+		var fittyElements = [
+			{ "selector": "#extraText", "minSize": 8, "maxSize": 88, "multiLine": false }
+		];
+		
+		initWebSocketAndFitty(fittyElements, "Starting soon overlay");
+    });
+</script>
