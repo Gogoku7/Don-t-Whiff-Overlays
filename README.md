@@ -12,9 +12,9 @@ https://www.twitter.com/Gogoku7
 
 VODS:
 
-Twitch (Tekken 7): 
+Twitch (Tekken 7): https://www.twitch.tv/collections/5TeaJA_F-RWmNA
 
-Twitch (Super Smash Bros. Ultimate, Top 4): 
+Twitch (Super Smash Bros. Ultimate, Top 4): https://www.twitch.tv/collections/v4Of8RXF-RWeJA
 
 YouTube (Tekken 7): 
 
